@@ -1,9 +1,9 @@
 {
-  "versionName": "2.1.0",
+  "versionName": "2.2.0",
   "updateLog": {
-    "en": "1. Upgrade from Via version 1.2.0 to the official release 1.2.1\n2. Added “Boss Gesture” feature for seamless camouflage, so you can slack off with peace of mind\n3. Added random User-agent feature to prevent tracking\n4. Optimized network sources to improve remote maintainability\n5. Fixed bugs in the script repository and user sandbox\n6. Optimized animations and UI to enhance the user experience",
-    "zh-CN": "1. 从 Via 1.2.0 版本切换到正式版 1.2.1\n2. 新增老板手势功能，完美伪装，安心摸鱼\n3. 新增随机标识功能，防止追踪\n4. 优化网络源，提升远程维护性\n5. 修复脚本仓库、用户沙箱的 Bug\n6. 优化动画和 UI，增强用户体验",
-    "zh-TW": "1. 從 Via 1.2.0 版本切換至正式版 1.2.1\n2. 新增老闆手勢功能，完美偽裝，安心偷懶\n3. 新增隨機標識功能，防止追蹤\n4. 優化網路來源，提升遠端維護性\n5. 修復腳本儲存庫及使用者沙盒的錯誤\n6. 優化動畫與使用者介面，提升使用者體驗"
+    "en": "1. Completely redesigned most of the UI to closely mimic the Via style\n2. Completely redesigned basic animations to enhance the user experience\n3. Added native support for Via version 7.3.3\n4. Added the ability to block focus on the address bar\n5. Added enhanced URL correction features\n6. Added a \"Perfect Exit\" feature\n7. Added a time synchronization mechanism\n8. Added \"About\" cards and entries\n9. Optimized the frequency of connections to network sources\n10. Fixed several issues\n11. The official Telegram group has been created — come join us!",
+    "zh-CN": "1. 完全重构大部分 UI，高仿 Via 风格\n2. 完全重构基础动画，增强使用体验\n3. 添加 Via 7.3.3 版本本地支持\n4. 新增屏蔽聚焦地址栏功能\n5. 新增网址纠错增强功能\n6. 新增完美退出功能\n7. 新增同步时间机制\n8. 新增关于卡片和条目\n9. 优化网络源连接频次\n10. 修复了若干问题\n11. 官方 Telegram 群组已创建，快来加入吧！",
+    "zh-TW": "1. 完全重構大部分 UI，高仿 Via 風格\n2. 完全重構基礎動畫，增強使用體驗\n3. 加入 Via 7.3.3 版本本地支援\n4. 新增封鎖聚焦網址列功能\n5. 新增網址糾錯增強功能\n6. 新增完美退出功能\n7. 新增同步時間機制\n8. 新增關於卡片與條目\n9. 最佳化網路來源連線頻次\n10. 修復若干問題\n11. 官方 Telegram 群組已建立，快來加入吧！"
   },
-  "apkUrl": "https://cdn.jsdelivr.net/gh/JiGuroLGC/CDN@1.9.8/Releases/BetterVia_2.1.0.apk"
+  "apkUrl": "https://cdn.jsdelivr.net/gh/JiGuroLGC/CDN@1.9.9/Releases/BetterVia_2.2.0.apk"
 }
